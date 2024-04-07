@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋 My name is Mike and I'm a Senior Developer from the UK</h1>
+<h1 align="center">Hi👋 My name is Mike and I'm a Senior Developer💻</h1>
 
 ###
 
