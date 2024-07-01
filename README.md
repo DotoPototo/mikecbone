@@ -3,12 +3,12 @@
 ###
 
 <div align="center">
-  <img height="200" src="./pototo.gif"  />
+  <img height="200" src="./guns.png"  />
 </div>
 
 ###
 
-<p align="left"></p>
+<p align="center">I do things sometimes</p>
 
 ###
 
